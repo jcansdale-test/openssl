@@ -473,3 +473,4 @@ void do_ssl_shutdown(SSL *ssl)
 }
 
 #endif  /* OPENSSL_NO_SOCK */
+foo
